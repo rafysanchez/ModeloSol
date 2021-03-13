@@ -1,0 +1,9 @@
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Dominio\bin\Debug\netcoreapp3.1\Modelo.Dominio.deps.json
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Dominio\bin\Debug\netcoreapp3.1\Modelo.Dominio.dll
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Dominio\bin\Debug\netcoreapp3.1\Modelo.Dominio.pdb
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Dominio\obj\Debug\netcoreapp3.1\Modelo.Dominio.csprojAssemblyReference.cache
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Dominio\obj\Debug\netcoreapp3.1\Modelo.Dominio.AssemblyInfoInputs.cache
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Dominio\obj\Debug\netcoreapp3.1\Modelo.Dominio.AssemblyInfo.cs
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Dominio\obj\Debug\netcoreapp3.1\Modelo.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Dominio\obj\Debug\netcoreapp3.1\Modelo.Dominio.dll
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Dominio\obj\Debug\netcoreapp3.1\Modelo.Dominio.pdb

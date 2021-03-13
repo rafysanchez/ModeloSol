@@ -1,0 +1,9 @@
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Modelo.Infra.CrossCutting.deps.json
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Modelo.Infra.CrossCutting.dll
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.CrossCutting\bin\Debug\netcoreapp3.1\Modelo.Infra.CrossCutting.pdb
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Modelo.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Modelo.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Modelo.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Modelo.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Modelo.Infra.CrossCutting.dll
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Modelo.Infra.CrossCutting.pdb

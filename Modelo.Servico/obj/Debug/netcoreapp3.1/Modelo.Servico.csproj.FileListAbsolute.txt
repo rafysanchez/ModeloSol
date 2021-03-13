@@ -1,0 +1,9 @@
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Servico\bin\Debug\netcoreapp3.1\Modelo.Servico.deps.json
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Servico\bin\Debug\netcoreapp3.1\Modelo.Servico.dll
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Servico\bin\Debug\netcoreapp3.1\Modelo.Servico.pdb
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Servico\obj\Debug\netcoreapp3.1\Modelo.Servico.csprojAssemblyReference.cache
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Servico\obj\Debug\netcoreapp3.1\Modelo.Servico.AssemblyInfoInputs.cache
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Servico\obj\Debug\netcoreapp3.1\Modelo.Servico.AssemblyInfo.cs
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Servico\obj\Debug\netcoreapp3.1\Modelo.Servico.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Servico\obj\Debug\netcoreapp3.1\Modelo.Servico.dll
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Servico\obj\Debug\netcoreapp3.1\Modelo.Servico.pdb

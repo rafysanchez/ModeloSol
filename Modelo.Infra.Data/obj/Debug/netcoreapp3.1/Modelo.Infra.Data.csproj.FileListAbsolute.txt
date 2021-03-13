@@ -1,0 +1,9 @@
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.Data\bin\Debug\netcoreapp3.1\Modelo.Infra.Data.deps.json
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.Data\bin\Debug\netcoreapp3.1\Modelo.Infra.Data.dll
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.Data\bin\Debug\netcoreapp3.1\Modelo.Infra.Data.pdb
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.Data\obj\Debug\netcoreapp3.1\Modelo.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.Data\obj\Debug\netcoreapp3.1\Modelo.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.Data\obj\Debug\netcoreapp3.1\Modelo.Infra.Data.AssemblyInfo.cs
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.Data\obj\Debug\netcoreapp3.1\Modelo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.Data\obj\Debug\netcoreapp3.1\Modelo.Infra.Data.dll
+C:\Users\Familia\source\repos\ModeloSol\Modelo.Infra.Data\obj\Debug\netcoreapp3.1\Modelo.Infra.Data.pdb
